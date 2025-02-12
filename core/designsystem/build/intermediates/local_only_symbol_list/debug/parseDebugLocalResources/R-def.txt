@@ -1,0 +1,8 @@
+R_DEF: Internal format may change without notice
+local
+font harmonyos_sans_black
+font harmonyos_sans_bold
+font harmonyos_sans_light
+font harmonyos_sans_medium
+font harmonyos_sans_regular
+font harmonyos_sans_thin

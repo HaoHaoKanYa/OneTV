@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="D:\apk\OneTV\tv"
+    name=":tv"
+    type="APP"
+    maven="壹来电视:tv:unspecified"
+    agpVersion="8.5.2"
+    buildFolder="build"
+    bootClassPath="D:\SDK\platforms\android-34\android.jar;D:\SDK\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

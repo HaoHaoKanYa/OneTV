@@ -1,0 +1,6 @@
+int font harmonyos_sans_black 0x0
+int font harmonyos_sans_bold 0x0
+int font harmonyos_sans_light 0x0
+int font harmonyos_sans_medium 0x0
+int font harmonyos_sans_regular 0x0
+int font harmonyos_sans_thin 0x0

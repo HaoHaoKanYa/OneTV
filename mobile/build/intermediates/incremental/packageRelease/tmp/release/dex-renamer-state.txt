@@ -1,0 +1,4 @@
+#Tue Feb 11 17:29:24 CST 2025
+base.0=D\:\\apk\\OneTV\\mobile\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
