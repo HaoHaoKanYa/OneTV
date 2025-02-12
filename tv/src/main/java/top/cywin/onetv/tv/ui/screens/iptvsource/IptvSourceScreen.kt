@@ -89,9 +89,9 @@ fun IptvSourceScreen(
                         headlineContent = {
                             Column {
                                 // 显示默认源的名称
-                                Text("默认源：${source.name}")
+                                Text("默认直播源：${source.name}")
                                 // 显示提示文本
-                                Text("仅为测试软件用，更多精彩节目请关注公众号【壹来了】或者自行添加直播源")
+                                Text("本源仅为测试软件用，更多精彩节目可关注公众号【壹来了】或者自行添加直播源。")
                             }
                         },
                         trailingContent = {
@@ -172,7 +172,7 @@ private fun IptvSourceScreenPreview() {
                             IptvSource(name = "直播源1", url = "http://1.2.3.4/iptv.m3u"),
                             IptvSource(name = "直播源2", url = "http://1.2.3.4/iptv.m3u"),
                             // 默认源
-                            IptvSource(name = "关注公众号【壹来了】", url = "https://ghfast.top/" + "raw.githubusercontent.com/HaoHaoKanYa/Live/refs/heads/main/HaoKanYA/WuZhouYiDong-20250208.m3u"),
+                            IptvSource(name = "关注公众号【壹来了】", url = "GITHUB_PROXY" + "raw.githubusercontent.com/HaoHaoKanYa/Live/refs/heads/main/HaoKanYA/WuZhouYiDong-20250208.m3u"),
                         )
                     )
                 },

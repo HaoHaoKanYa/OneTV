@@ -577,10 +577,10 @@
       proguardRules="proguard.txt"/>
   <library
       name=":@@:core:data::release"
-      jars="C:\Users\Cc\.gradle\caches\transforms-4\005c0723cfb3210f0585992630991794\transformed\out\jars\classes.jar;C:\Users\Cc\.gradle\caches\transforms-4\005c0723cfb3210f0585992630991794\transformed\out\jars\libs\R.jar"
+      jars="C:\Users\Cc\.gradle\caches\transforms-4\c8fe183598cb92164bd1a88392a9c9e1\transformed\out\jars\classes.jar;C:\Users\Cc\.gradle\caches\transforms-4\c8fe183598cb92164bd1a88392a9c9e1\transformed\out\jars\libs\R.jar"
       resolved="å£¹æ¥çµè§.core:data:unspecified"
       partialResultsDir="D:\apk\OneTV\core\data\build\intermediates\lint_vital_partial_results\release\lintVitalAnalyzeRelease\out"
-      folder="C:\Users\Cc\.gradle\caches\transforms-4\005c0723cfb3210f0585992630991794\transformed\out"
+      folder="C:\Users\Cc\.gradle\caches\transforms-4\c8fe183598cb92164bd1a88392a9c9e1\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
