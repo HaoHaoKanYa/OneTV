@@ -1,19 +1,26 @@
 package top.cywin.onetv.tv.ui.screens.channel
 
+import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.size
+import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.draw.clip
 import androidx.compose.ui.geometry.Offset
 import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
+import androidx.compose.ui.unit.dp
 import top.cywin.onetv.core.data.entities.channel.Channel
 import top.cywin.onetv.core.data.entities.epg.EpgProgramme
 import top.cywin.onetv.core.data.entities.epg.EpgProgrammeRecent
+import top.cywin.onetv.tv.R
 import top.cywin.onetv.tv.ui.rememberChildPadding
 import top.cywin.onetv.tv.ui.screens.channel.components.ChannelInfo
 import top.cywin.onetv.tv.ui.screens.channel.components.ChannelNumber
@@ -65,6 +72,20 @@ fun ChannelTempScreen(
             currentPlaybackEpgProgrammeProvider = currentPlaybackEpgProgrammeProvider,
             videoPlayerMetadataProvider = videoPlayerMetadataProvider,
             showChannelLogoProvider = showChannelLogoProvider,
+        )
+
+        // 加载二维码图片并显示
+        Image(
+            painter = painterResource(id = R.drawable.gongzhonghao_qr_image),
+            contentDescription = "公众号二维码",
+            modifier = Modifier
+                .align(Alignment.BottomEnd)
+                .padding(
+                    end = childPadding.end + 1.dp,
+                    bottom = childPadding.bottom + 1.dp
+                )
+                .size(150.dp) // 设置图片大小
+                .clip(RoundedCornerShape(8.dp)) // 设置裁剪方式，这里是圆角裁剪
         )
     }
 }
