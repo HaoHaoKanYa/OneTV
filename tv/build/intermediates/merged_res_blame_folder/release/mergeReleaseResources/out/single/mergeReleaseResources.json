@@ -16,12 +16,12 @@
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\interpolator\\btn_radio_to_on_mtrl_animation_interpolator_0.xml"
     },
     {
-        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable_ic_launcher_foreground.xml.flat",
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-main-56:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\color_abc_background_cache_hint_selector_material_dark.xml.flat",
@@ -100,12 +100,12 @@
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\color_vector_tint_color.xml.flat",
-        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-ui-release-27:\\color\\vector_tint_color.xml"
-    },
-    {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\xml_file_paths.xml.flat",
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-main-56:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\color_vector_tint_color.xml.flat",
+        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-ui-release-27:\\color\\vector_tint_color.xml"
     },
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\interpolator_btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml.flat",
@@ -120,20 +120,20 @@
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
-        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-xxhdpi-v4_ic_call_answer_video.png.flat",
-        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-core-1.13.1-40:\\drawable-xxhdpi-v4\\ic_call_answer_video.png"
+        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-xxhdpi-v4_ic_call_answer_video.png.flat",
+        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-core-1.13.1-40:\\drawable-xxhdpi-v4\\ic_call_answer_video.png"
     },
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-xhdpi-v4_ic_call_answer_video_low.png.flat",
@@ -152,12 +152,12 @@
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable_mm_reward_qrcode.png.flat",
-        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-main-56:\\drawable\\mm_reward_qrcode.png"
-    },
-    {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\mipmap-xxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-main-56:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable_mm_reward_qrcode.png.flat",
+        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-main-56:\\drawable\\mm_reward_qrcode.png"
     },
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-xhdpi-v4_ic_call_decline.png.flat",
@@ -180,16 +180,16 @@
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\color-v23_abc_btn_colored_text_material.xml.flat",
-        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\color-v23\\abc_btn_colored_text_material.xml"
+        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
-        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\color-v23_abc_btn_colored_text_material.xml.flat",
+        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\color-v23\\abc_btn_colored_text_material.xml"
     },
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\layout_abc_screen_toolbar.xml.flat",
@@ -234,6 +234,10 @@
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "top.cywin.onetv.tv-release-55:/drawable_theme3.png.flat",
+        "source": "top.cywin.onetv.tv-main-56:/drawable/theme3.png"
     },
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
@@ -284,12 +288,12 @@
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\anim_btn_checkbox_to_unchecked_check_path_merged_animation.xml.flat",
-        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\anim\\btn_checkbox_to_unchecked_check_path_merged_animation.xml"
-    },
-    {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\layout-v21_notification_template_icon_group.xml.flat",
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-core-1.13.1-40:\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\anim_btn_checkbox_to_unchecked_check_path_merged_animation.xml.flat",
+        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\anim\\btn_checkbox_to_unchecked_check_path_merged_animation.xml"
     },
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\color-v23_abc_tint_edittext.xml.flat",
@@ -300,12 +304,12 @@
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\layout_abc_list_menu_item_checkbox.xml.flat",
-        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\layout_abc_popup_menu_header_item_layout.xml.flat",
@@ -324,12 +328,12 @@
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\anim\\btn_checkbox_to_checked_box_outer_merged_animation.xml"
     },
     {
-        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-main-56:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-main-56:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\layout_abc_search_view.xml.flat",
@@ -344,12 +348,12 @@
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable_abc_ratingbar_indicator_material.xml.flat",
@@ -416,12 +420,12 @@
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\layout_abc_action_bar_up_container.xml.flat",
-        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\layout\\abc_action_bar_up_container.xml"
     },
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
@@ -480,16 +484,16 @@
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
-        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-core-1.13.1-40:\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -504,16 +508,20 @@
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable_abc_switch_thumb_material.xml.flat",
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable\\abc_switch_thumb_material.xml"
     },
     {
+        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-hdpi-v4_ic_call_answer.png.flat",
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-core-1.13.1-40:\\drawable-hdpi-v4\\ic_call_answer.png"
+    },
+    {
+        "merged": "top.cywin.onetv.tv-release-55:/drawable_theme1.jpg.flat",
+        "source": "top.cywin.onetv.tv-main-56:/drawable/theme1.jpg"
     },
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
@@ -546,10 +554,6 @@
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable_abc_list_selector_holo_dark.xml.flat",
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable\\abc_list_selector_holo_dark.xml"
-    },
-    {
-        "merged": "top.cywin.onetv.tv-release-55:/drawable_gongzhonghao_qr_image.bmp.flat",
-        "source": "top.cywin.onetv.tv-main-56:/drawable/gongzhonghao_qr_image.bmp"
     },
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\anim-v21_fragment_fast_out_extra_slow_in.xml.flat",
@@ -588,12 +592,16 @@
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
+        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable_abc_text_cursor_material.xml.flat",
+        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\layout_abc_activity_chooser_view_list_item.xml.flat",
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable_abc_text_cursor_material.xml.flat",
-        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable\\abc_text_cursor_material.xml"
+        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable_gongzhonghao_qr_image.bmp.flat",
+        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-main-56:\\drawable\\gongzhonghao_qr_image.bmp"
     },
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
@@ -632,16 +640,16 @@
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-core-1.13.1-40:\\drawable-xxhdpi-v4\\ic_call_decline_low.png"
     },
     {
-        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable_btn_radio_on_to_off_mtrl_animation.xml.flat",
-        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable\\btn_radio_on_to_off_mtrl_animation.xml"
+        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-main-56:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-main-56:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable_btn_radio_on_to_off_mtrl_animation.xml.flat",
+        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-appcompat-1.7.0-32:\\drawable\\btn_radio_on_to_off_mtrl_animation.xml"
     },
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable_abc_seekbar_track_material.xml.flat",
@@ -1306,6 +1314,10 @@
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-hdpi-v4_ic_call_answer_video.png.flat",
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-core-1.13.1-40:\\drawable-hdpi-v4\\ic_call_answer_video.png"
+    },
+    {
+        "merged": "top.cywin.onetv.tv-release-55:/drawable_theme2.jpg.flat",
+        "source": "top.cywin.onetv.tv-main-56:/drawable/theme2.jpg"
     },
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-release-55:\\drawable-ldpi-v4_ic_call_answer_low.png.flat",

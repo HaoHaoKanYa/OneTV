@@ -5,6 +5,9 @@ drawable gongzhonghao_qr_image
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable mm_reward_qrcode
+drawable theme1
+drawable theme2
+drawable theme3
 drawable tv_banner
 mipmap ic_launcher
 mipmap ic_launcher_foreground

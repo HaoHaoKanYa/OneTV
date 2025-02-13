@@ -16,6 +16,7 @@ Marking attr:colorControlActivated:2130903124 reachable: referenced from D:\apk\
 Marking attr:colorControlNormal:2130903126 reachable: referenced from D:\apk\OneTV\tv\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
 Marking drawable:abc_list_divider_mtrl_alpha:2131165221 reachable: referenced from D:\apk\OneTV\tv\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
 Marking drawable:abc_dialog_material_background:2131165203 reachable: referenced from D:\apk\OneTV\tv\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+Marking drawable:gongzhonghao_qr_image:2131165271 reachable: referenced from D:\apk\OneTV\tv\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
 Marking dimen:tooltip_precise_anchor_threshold:2131099764 reachable: referenced from D:\apk\OneTV\tv\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
 Marking dimen:tooltip_precise_anchor_extra_offset:2131099763 reachable: referenced from D:\apk\OneTV\tv\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
 Marking dimen:tooltip_y_offset_touch:2131099767 reachable: referenced from D:\apk\OneTV\tv\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
@@ -123,7 +124,6 @@ Marking font:harmonyos_sans_medium:2131230723 reachable: referenced from D:\apk\
 Marking font:harmonyos_sans_regular:2131230724 reachable: referenced from D:\apk\OneTV\tv\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
 Marking font:harmonyos_sans_thin:2131230725 reachable: referenced from D:\apk\OneTV\tv\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
 Marking id:view_tree_saved_state_registry_owner:2131296440 reachable: referenced from D:\apk\OneTV\tv\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
-Marking drawable:gongzhonghao_qr_image:2131165271 reachable: referenced from D:\apk\OneTV\tv\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
 Marking id:tag_window_insets_animation_callback:2131296423 reachable: referenced from D:\apk\OneTV\tv\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
 Marking id:tag_on_apply_window_listener:2131296415 reachable: referenced from D:\apk\OneTV\tv\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
 Marking dimen:abc_config_prefDialogWidth:2131099671 reachable: referenced from D:\apk\OneTV\tv\build\intermediates\dex\release\minifyReleaseWithR8\classes.dex
@@ -7818,6 +7818,9 @@ Marking attr:thickness:2130903289 used because it matches string pool constant t
 Marking attr:thumbTextPadding:2130903290 used because it matches string pool constant th
 Marking attr:thumbTint:2130903291 used because it matches string pool constant th
 Marking attr:thumbTintMode:2130903292 used because it matches string pool constant th
+Marking drawable:theme1:2131165295 used because it matches string pool constant th
+Marking drawable:theme2:2131165296 used because it matches string pool constant th
+Marking drawable:theme3:2131165297 used because it matches string pool constant th
 Marking attr:toolbarNavigationButtonStyle:2130903308 used because it matches string pool constant to
 Marking attr:toolbarStyle:2130903309 used because it matches string pool constant to
 Marking attr:tooltipForegroundColor:2130903310 used because it matches string pool constant to
@@ -7833,8 +7836,8 @@ Marking dimen:tooltip_precise_anchor_threshold:2131099764 used because it matche
 Marking dimen:tooltip_vertical_padding:2131099765 used because it matches string pool constant to
 Marking dimen:tooltip_y_offset_non_touch:2131099766 used because it matches string pool constant to
 Marking dimen:tooltip_y_offset_touch:2131099767 used because it matches string pool constant to
-Marking drawable:tooltip_frame_dark:2131165295 used because it matches string pool constant to
-Marking drawable:tooltip_frame_light:2131165296 used because it matches string pool constant to
+Marking drawable:tooltip_frame_dark:2131165298 used because it matches string pool constant to
+Marking drawable:tooltip_frame_light:2131165299 used because it matches string pool constant to
 Marking id:top:2131296432 used because it matches string pool constant to
 Marking id:topPanel:2131296433 used because it matches string pool constant to
 Marking string:tooltip_description:2131689537 used because it matches string pool constant to
@@ -9143,6 +9146,9 @@ Marking id:tag_window_insets_animation_callback:2131296423 used because it match
 @drawable/notify_panel_notification_icon_bg : reachable=true
 @drawable/test_level_drawable : reachable=true
     @color/primary_dark_material_dark
+@drawable/theme1 : reachable=true
+@drawable/theme2 : reachable=true
+@drawable/theme3 : reachable=true
 @drawable/tooltip_frame_dark : reachable=true
     @color/tooltip_background_dark
     @dimen/tooltip_corner_radius
@@ -11385,9 +11391,12 @@ The root reachable resources are:
  drawable:notification_tile_bg:2131165292
  drawable:notify_panel_notification_icon_bg:2131165293
  drawable:test_level_drawable:2131165294
- drawable:tooltip_frame_dark:2131165295
- drawable:tooltip_frame_light:2131165296
- drawable:tv_banner:2131165297
+ drawable:theme1:2131165295
+ drawable:theme2:2131165296
+ drawable:theme3:2131165297
+ drawable:tooltip_frame_dark:2131165298
+ drawable:tooltip_frame_light:2131165299
+ drawable:tv_banner:2131165300
  font:harmonyos_sans_black:2131230720
  font:harmonyos_sans_bold:2131230721
  font:harmonyos_sans_light:2131230722
