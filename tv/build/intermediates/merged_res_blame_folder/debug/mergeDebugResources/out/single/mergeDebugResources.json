@@ -8,8 +8,24 @@
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-main-61:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-debug-59:\\drawable_theme3.png.flat",
+        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-main-61:\\drawable\\theme3.png"
+    },
+    {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-debug-59:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-main-61:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "top.cywin.onetv.tv-debug-59:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "top.cywin.onetv.tv-main-61:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "top.cywin.onetv.tv-debug-59:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "top.cywin.onetv.tv-main-61:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "top.cywin.onetv.tv-debug-59:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "top.cywin.onetv.tv-main-61:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-debug-59:\\mipmap-xxhdpi_ic_launcher.webp.flat",
@@ -48,6 +64,10 @@
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-main-61:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
+        "merged": "top.cywin.onetv.tv-debug-59:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "top.cywin.onetv.tv-main-61:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-debug-59:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-main-61:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
@@ -56,16 +76,16 @@
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-main-61:\\mipmap-hdpi\\ic_launcher_foreground.webp"
     },
     {
+        "merged": "top.cywin.onetv.tv-debug-59:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "top.cywin.onetv.tv-main-61:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-debug-59:\\raw_web_push_js.js.flat",
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-main-61:\\raw\\web_push_js.js"
     },
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-debug-59:\\drawable_background1.jpg.flat",
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-main-61:\\drawable\\background1.jpg"
-    },
-    {
-        "merged": "top.cywin.onetv.tv-debug-59:/drawable_theme1.jpg.flat",
-        "source": "top.cywin.onetv.tv-main-61:/drawable/theme1.jpg"
     },
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-debug-59:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
@@ -84,8 +104,16 @@
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-main-61:\\drawable\\theme3_bg.png"
     },
     {
+        "merged": "top.cywin.onetv.tv-debug-59:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "top.cywin.onetv.tv-main-61:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-debug-59:\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-main-61:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "top.cywin.onetv.tv-debug-59:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "top.cywin.onetv.tv-main-61:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-debug-59:\\drawable_background_image_2.jpg.flat",
@@ -100,16 +128,24 @@
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-main-61:\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "top.cywin.onetv.tv-debug-59:/drawable_theme3.png.flat",
-        "source": "top.cywin.onetv.tv-main-61:/drawable/theme3.png"
+        "merged": "top.cywin.onetv.tv-debug-59:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "top.cywin.onetv.tv-main-61:/mipmap-mdpi/ic_launcher_foreground.webp"
     },
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-debug-59:\\mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-main-61:\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
+        "merged": "top.cywin.onetv.tv-debug-59:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "top.cywin.onetv.tv-main-61:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-debug-59:\\mipmap-mdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-main-61:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "top.cywin.onetv.tv-debug-59:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "top.cywin.onetv.tv-main-61:/mipmap-xxhdpi/ic_launcher_foreground.webp"
     },
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-debug-59:\\mipmap-mdpi_ic_launcher.webp.flat",
@@ -130,6 +166,10 @@
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-debug-59:\\mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-main-61:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "top.cywin.onetv.tv-debug-59:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "top.cywin.onetv.tv-main-61:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-debug-59:\\drawable_ic_launcher_foreground.xml.flat",
@@ -168,6 +208,10 @@
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-main-61:\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
+        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-debug-59:\\drawable_theme1.jpg.flat",
+        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-main-61:\\drawable\\theme1.jpg"
+    },
+    {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-debug-59:\\xml_file_paths.xml.flat",
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-main-61:\\xml\\file_paths.xml"
     },
@@ -180,15 +224,35 @@
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-main-61:\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
+        "merged": "top.cywin.onetv.tv-debug-59:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "top.cywin.onetv.tv-main-61:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "top.cywin.onetv.tv-debug-59:/drawable-xhdpi_tv_banner.png.flat",
+        "source": "top.cywin.onetv.tv-main-61:/drawable-xhdpi/tv_banner.png"
+    },
+    {
+        "merged": "top.cywin.onetv.tv-debug-59:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "top.cywin.onetv.tv-main-61:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-debug-59:\\drawable_theme2.jpg.flat",
+        "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-main-61:\\drawable\\theme2.jpg"
+    },
+    {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-debug-59:\\drawable_gongzhonghao_qr_image.bmp.flat",
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-main-61:\\drawable\\gongzhonghao_qr_image.bmp"
     },
     {
-        "merged": "top.cywin.onetv.tv-debug-59:/drawable_theme2.jpg.flat",
-        "source": "top.cywin.onetv.tv-main-61:/drawable/theme2.jpg"
-    },
-    {
         "merged": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-debug-59:\\drawable_background_image_3.png.flat",
         "source": "C:\\Users\\Cc\\.gradle\\daemon\\8.7\\top.cywin.onetv.tv-main-61:\\drawable\\background_image_3.png"
+    },
+    {
+        "merged": "top.cywin.onetv.tv-debug-59:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "top.cywin.onetv.tv-main-61:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "top.cywin.onetv.tv-debug-59:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "top.cywin.onetv.tv-main-61:/mipmap-xxxhdpi/ic_launcher.webp"
     }
 ]
