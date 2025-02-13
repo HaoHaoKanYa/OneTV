@@ -66,8 +66,8 @@ object Constants {
      * Git最新版本信息
      */
     val GIT_RELEASE_LATEST_URL = mapOf(
-        "stable" to  GITHUB_PROXY + "https://raw.githubusercontent.com/HaoHaoKanYa/OneTV/refs/heads/master/tv-stable.json?token=GHSAT0AAAAAAC6TSSHFOLXK7K7CXA5XUM7MZ5MJ2AQ",
-        "beta" to GITHUB_PROXY + "https://raw.githubusercontent.com/HaoHaoKanYa/OneTV/refs/heads/master/tv-beta.json?token=GHSAT0AAAAAAC6TSSHFKA2BQF3Y6JOKEHFMZ5MJ3PQ",
+        "stable" to  GITHUB_PROXY + "https://raw.githubusercontent.com/HaoHaoKanYa/OneTV/refs/heads/master/tv-stable.json",
+        "beta" to GITHUB_PROXY + "https://raw.githubusercontent.com/HaoHaoKanYa/OneTV/refs/heads/master/tv-beta.json",
     )
 
     /**
