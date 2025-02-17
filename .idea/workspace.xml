@@ -10,12 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8b7ff41-a999-492c-9387-2242e507346c" name="更改" comment="2025-2-13更新了图标以及LOGO，更新1.0.1版本。">
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tv/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +39,7 @@
     <option name="BUILD_TARGET_KEY" value="apk" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="PUSH_TAGS">
       <GitPushTagMode>
         <option name="argument" value="--tags" />
