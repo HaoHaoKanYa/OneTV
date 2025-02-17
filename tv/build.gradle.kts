@@ -5,6 +5,7 @@ plugins {
     alias(libs.plugins.kotlin.android)
     alias(libs.plugins.compose)
     alias(libs.plugins.kotlin.serialization)
+    alias(libs.plugins.google.services) // 确保libs中有google-services的别名
 }
 
 android {
@@ -19,7 +20,7 @@ android {
         minSdk = libs.versions.minSdk.get().toInt()
         targetSdk = libs.versions.targetSdk.get().toInt()
         versionCode = 1
-        versionName = "1.0.2"
+        versionName = "1.0.3"
         vectorDrawables {
             useSupportLibrary = true
         }
@@ -109,5 +110,5 @@ dependencies {
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
     coreLibraryDesugaring(libs.desugar.jdk.libs)
-
+    implementation("com.google.firebase:firebase-analytics-ktx:21.3.0") // 使用最新版本
 }

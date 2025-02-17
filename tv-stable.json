@@ -1,9 +1,15 @@
 {
-  "tag_name": "v1.0.2",
+  "tag_name": "v1.0.3",
   "assets": [
     {
-      "browser_download_url": "https://github.com/HaoHaoKanYa/OneTV/blob/master/tv/release/onetv-android-tv-1.0.2-all-sdk21.apk"
+      "browser_download_url": "https://github.com/HaoHaoKanYa/OneTV/blob/master/tv/release/onetv-android-tv-1.0.3-all-sdk21.apk"
     }
   ],
-  "body": " [1.0.2] - 2025-02-17\n\n测试软件电信线路（仅个人测试用）"
+  "body": " [1.0.3] - 2025-02-17\n\n-为优化观看体验，我们做出以下调整：\n-引入Google Analytics优化频道资源，移除长期无人观看的测试频道。\n-对于热点频道将新增测试线路，改善卡顿问题。\n-软件网络线路仅用于个人测试用，请合理使用。\n-更新本软件使用需知，首次进入本软件请详细阅读。\n-若您有疑问或建议，欢迎随时联系我们。感谢支持！"
+
+
+
+
+
+
 }

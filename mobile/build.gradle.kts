@@ -5,6 +5,7 @@ plugins {
     alias(libs.plugins.kotlin.android)
     alias(libs.plugins.compose)
     alias(libs.plugins.kotlin.serialization)
+    alias(libs.plugins.google.services) // 使用 TOML 别名
 }
 
 android {
@@ -19,7 +20,7 @@ android {
         minSdk = 24
         targetSdk = libs.versions.compileSdk.get().toInt()
         versionCode = 1
-        versionName = "1.0.2"
+        versionName = "1.0.3"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {
@@ -90,4 +91,5 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
+    implementation("com.google.firebase:firebase-analytics-ktx:21.3.0") // 使用最新版本
 }

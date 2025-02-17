@@ -42,7 +42,7 @@ fun SettingsCategoryApp(
 
             SettingsListItem(
                 modifier = Modifier.focusRequester(focusRequester),
-                headlineContent = "应用更新",
+                headlineContent = "应用更新（在线更新要允许软件开启本地权限）",
                 supportingContent = "最新版本：v${updateViewModel.latestRelease.version}",
                 trailingContent = if (updateViewModel.isUpdateAvailable) "发现新版本" else "无更新",
                 onSelected = {
