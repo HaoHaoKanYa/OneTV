@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="ic_launcher_background">#0285D2</color>
-    <string name="app_name">壹来电视</string>
-    <style name="Theme.MyTV" parent="android:Theme.Black.NoTitleBar.Fullscreen"/>
-</resources>
