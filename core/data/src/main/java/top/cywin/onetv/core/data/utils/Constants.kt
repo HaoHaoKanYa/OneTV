@@ -31,7 +31,11 @@ object Constants {
         listOf(
             IptvSource(
                 name = "关注公众号【壹来了】",
-                url =  GITHUB_PROXY + "raw.githubusercontent.com/HaoHaoKanYa/Live/refs/heads/main/HaoKanYA/WuZhouYiDong-20250208.m3u",
+                url =  GITHUB_PROXY + "raw.githubusercontent.com/HaoHaoKanYa/Live/refs/heads/main/HaoKanYA/WuZhouYiDong-CN-20250218.m3u",
+            ),
+            IptvSource(
+                name = "關注公众号【壹来了】",
+                url =  GITHUB_PROXY + "raw.githubusercontent.com/HaoHaoKanYa/Live/refs/heads/main/HaoKanYA/WuZhouDianXin-CN-20250218.m3u",
             ),
         )
     )

@@ -1,5 +1,6 @@
 package top.cywin.onetv.tv.ui.screens.iptvsource
 
+import android.graphics.Color.rgb
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.PaddingValues
@@ -38,6 +39,13 @@ import top.cywin.onetv.tv.ui.utils.focusOnLaunchedSaveable
 import top.cywin.onetv.tv.ui.utils.handleKeyEvents
 import top.cywin.onetv.tv.ui.utils.ifElse
 import kotlin.math.max
+import androidx.compose.ui.graphics.Color
+import androidx.compose.foundation.background
+import androidx.compose.foundation.shape.RoundedCornerShape
+import android.view.View
+import androidx.compose.foundation.layout.padding
+import androidx.compose.ui.unit.dp
+
 
 @Composable
 fun IptvSourceScreen(
@@ -59,7 +67,6 @@ fun IptvSourceScreen(
 
     // 获取默认源
     val defaultSource = Constants.IPTV_SOURCE_LIST.firstOrNull { it.name == "关注公众号【壹来了】" }
-
     Drawer(
         position = DrawerPosition.Bottom,
         onDismissRequest = onClose,
@@ -89,9 +96,10 @@ fun IptvSourceScreen(
                         headlineContent = {
                             Column {
                                 // 显示默认源的名称
-                                Text("默认直播源：${source.name}")
+                                Text("移动测试：${source.name}",color = Color(rgb(255, 255, 255)))
                                 // 显示提示文本
-                                Text("本源仅为测试软件用，更多精彩节目可关注公众号【壹来了】或者自行添加直播源。")
+                                Text("声明：壹来电视仅为空壳软件不提供任何直播源，本条线路仅为调试软件用途，" +
+                                        "使用者请在24小时内删除！更多精彩内容请添加自定义直播源。",color = Color(rgb(255, 0, 0)))
                             }
                         },
                         trailingContent = {
@@ -102,7 +110,35 @@ fun IptvSourceScreen(
                             )
                         }
                     )
-                } else {
+
+                } else if (source.name == "關注公众号【壹来了】") {
+                    // 第二条默认源，显示为声明文本
+                    ListItem(
+                        modifier = Modifier.ifElse(
+                            max(0, currentIptvSourceIdx) == index,
+                            Modifier.focusOnLaunchedSaveable(iptvSourceList),
+                        ),
+                        selected = index == currentIptvSourceIdx, // 选中状态
+                        onClick = { onIptvSourceSelected(source) },
+                        headlineContent = {
+                            Column {
+                                // 显示第二条默认源的名称
+                                Text("电信测试：關注公众号【壹来了】", color = Color(rgb(255, 255, 255)))
+                                // 显示声明文本
+                                Text("声明：壹来电视仅为空壳软件不提供任何直播源，本条线路仅为调试软件用途，" +
+                                        "使用者请在24小时内删除！更多精彩内容请添加自定义直播源。",color = Color(rgb(255, 0, 0)))
+                            }
+                        },
+                        trailingContent = {
+                            // 显示选择的小圆点
+                            RadioButton(
+                                selected = index == currentIptvSourceIdx,
+                                onClick = { onIptvSourceSelected(source) }
+                            )
+                        }
+                    )
+                }
+                else {
                     // 如果不是默认源，显示自定义源项
                     IptvSourceItem(
                         modifier = Modifier.ifElse(
@@ -172,7 +208,7 @@ private fun IptvSourceScreenPreview() {
                             IptvSource(name = "直播源1", url = "http://1.2.3.4/iptv.m3u"),
                             IptvSource(name = "直播源2", url = "http://1.2.3.4/iptv.m3u"),
                             // 默认源
-                            IptvSource(name = "关注公众号【壹来了】", url = "GITHUB_PROXY" + "raw.githubusercontent.com/HaoHaoKanYa/Live/refs/heads/main/HaoKanYA/WuZhouYiDong-20250208.m3u"),
+                            IptvSource(name = "关注公众号【壹来了】", url = "GITHUB_PROXY" + "raw.githubusercontent.com/HaoHaoKanYa/Live/refs/heads/main/HaoKanYA/WuZhouYiDong20250218.m3u"),
                         )
                     )
                 },
