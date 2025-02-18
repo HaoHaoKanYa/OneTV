@@ -24,4 +24,10 @@ local.properties
 key.properties
 keystore.jks
 .kotlin
-/release
+/google-services.json
+/mobile/google-services.json
+/tv/google-services.json
+/core.data/build/
+/core.designsystem/build/
+/core.util/build/
+/build/
