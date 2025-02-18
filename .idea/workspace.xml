@@ -9,8 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8b7ff41-a999-492c-9387-2242e507346c" name="更改" comment="2025-2-18：&#10;更新电信测试内置，频道细分回归">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="c8b7ff41-a999-492c-9387-2242e507346c" name="更改" comment="2025-2-18：&#10;更新电信测试内置，频道细分回归，&#10;更新1.0.4版本">
       <change beforePath="$PROJECT_DIR$/.gradle/8.7/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.7/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.bin" afterDir="false" />
@@ -21,7 +20,6 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deploymentTargetSelector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deploymentTargetSelector.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/data/build/intermediates/aar_main_jar/release/syncReleaseLibJars/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/core/data/build/intermediates/aar_main_jar/release/syncReleaseLibJars/classes.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/data/build/intermediates/compile_library_classes_jar/debug/bundleLibCompileToJarDebug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/core/data/build/intermediates/compile_library_classes_jar/debug/bundleLibCompileToJarDebug/classes.jar" afterDir="false" />
@@ -320,8 +318,6 @@
       <change beforePath="$PROJECT_DIR$/core/util/build/kotlin/compileReleaseKotlin/local-state/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/core/util/build/kotlin/compileReleaseKotlin/local-state/build-history.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/util/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/core/util/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/util/build/outputs/logs/manifest-merger-release-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/core/util/build/outputs/logs/manifest-merger-release-report.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tv/release/onetv-android-tv-1.0.3-all-sdk21.apk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tv/release/output-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/tv/release/output-metadata.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -793,7 +789,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739863995085</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="2025-2-18：&#10;更新电信测试内置，频道细分回归，&#10;更新1.0.4版本">
+      <option name="closed" value="true" />
+      <created>1739864760605</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1739864760605</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -872,7 +876,8 @@
     <MESSAGE value="2025-2-18：&#10;更新onetv1.0.3版本&#10;-优化&#10;-为优化观看体验，我们做出以下调整：&#10;-引入Google Analytics优化频道资源，移除长期无人观看的测试频道。&#10;-对于热点频道将新增测试线路，改善卡顿问题。&#10;-软件网络线路仅用于个人测试用，请合理使用。&#10;-更新本软件使用需知，首次进入本软件请详细阅读。&#10;-若您有疑问或建议，欢迎随时联系我们。感谢支持！" />
     <MESSAGE value="2025-2-18：&#10;toml文件更新" />
     <MESSAGE value="2025-2-18：&#10;更新电信测试内置，频道细分回归" />
-    <option name="LAST_COMMIT_MESSAGE" value="2025-2-18：&#10;更新电信测试内置，频道细分回归" />
+    <MESSAGE value="2025-2-18：&#10;更新电信测试内置，频道细分回归，&#10;更新1.0.4版本" />
+    <option name="LAST_COMMIT_MESSAGE" value="2025-2-18：&#10;更新电信测试内置，频道细分回归，&#10;更新1.0.4版本" />
   </component>
   <component name="play_dynamic_filters_status">
     <option name="appIdToCheckInfo">
