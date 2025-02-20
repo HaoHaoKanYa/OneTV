@@ -9,9 +9,8 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8b7ff41-a999-492c-9387-2242e507346c" name="更改" comment="### 更新了[1.0.5]版本！&#10;-优化&#10;--更新1.0.5版本！&#10;--为优化观看体验，做出下列调整优化：&#10;--优化LOGO图标。&#10;--测试轮换频道，调试软件稳定性。&#10;--网络线路仅用于调试软件用，使用者请在24小时内删除。&#10;--若您有疑问或建议，欢迎随时联系我们。感谢支持！&#10;--壹来电视仅为空壳软件不提供任何直播源，更多精彩内容请添加自定义直播源。">
-      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug-反馈.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/功能请求.md" beforeDir="false" />
+    <list default="true" id="c8b7ff41-a999-492c-9387-2242e507346c" name="更改" comment="### 更新了[1.0.6]版本！&#10;-优化&#10;--更新1.0.6版本！&#10;--为优化观看体验，做出下列调整优化：&#10;--测试了一些功能。&#10;--测试轮换频道，调试软件稳定性。&#10;--网络线路仅用于调试软件用，使用者请在24小时内删除。&#10;--若您有疑问或建议，欢迎随时联系我们。感谢支持！&#10;--壹来电视仅为空壳软件不提供任何直播源，更多精彩内容请添加自定义直播源。">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.7/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.7/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.bin" afterDir="false" />
@@ -22,13 +21,8 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/core/util/壹来电视.core.util.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/tv/壹来电视.tv.androidTest.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/tv/壹来电视.tv.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/tv/壹来电视.tv.unitTest.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/data/build/intermediates/aapt_friendly_merged_manifests/release/processReleaseManifest/aapt/output-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/core/data/build/intermediates/aapt_friendly_merged_manifests/release/processReleaseManifest/aapt/output-metadata.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/data/build/intermediates/aar_main_jar/release/syncReleaseLibJars/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/core/data/build/intermediates/aar_main_jar/release/syncReleaseLibJars/classes.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/data/build/intermediates/compile_library_classes_jar/debug/bundleLibCompileToJarDebug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/core/data/build/intermediates/compile_library_classes_jar/debug/bundleLibCompileToJarDebug/classes.jar" afterDir="false" />
@@ -331,8 +325,6 @@
       <change beforePath="$PROJECT_DIR$/mobile/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/build.gradle.kts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tv-stable.json" beforeDir="false" afterPath="$PROJECT_DIR$/tv-stable.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tv/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tv/release/onetv-android-tv-1.0.5-all-sdk21.apk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tv/release/output-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/tv/release/output-metadata.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -417,7 +409,7 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/apk/Gradle",
     "recommended.upgrade.last.time.stamp": "1740038142257",
-    "settings.editor.selected.configurable": "AndroidSdkUpdater"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   },
   "keyToStringList": {
     "ExportApk.BuildVariants": [
@@ -836,7 +828,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740046165820</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="### 更新了[1.0.6]版本！&#10;-优化&#10;--更新1.0.6版本！&#10;--为优化观看体验，做出下列调整优化：&#10;--测试了一些功能。&#10;--测试轮换频道，调试软件稳定性。&#10;--网络线路仅用于调试软件用，使用者请在24小时内删除。&#10;--若您有疑问或建议，欢迎随时联系我们。感谢支持！&#10;--壹来电视仅为空壳软件不提供任何直播源，更多精彩内容请添加自定义直播源。">
+      <option name="closed" value="true" />
+      <created>1740049876989</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1740049876989</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -919,7 +919,8 @@
     <MESSAGE value="更XML文件" />
     <MESSAGE value="更新日志" />
     <MESSAGE value="### 更新了[1.0.5]版本！&#10;-优化&#10;--更新1.0.5版本！&#10;--为优化观看体验，做出下列调整优化：&#10;--优化LOGO图标。&#10;--测试轮换频道，调试软件稳定性。&#10;--网络线路仅用于调试软件用，使用者请在24小时内删除。&#10;--若您有疑问或建议，欢迎随时联系我们。感谢支持！&#10;--壹来电视仅为空壳软件不提供任何直播源，更多精彩内容请添加自定义直播源。" />
-    <option name="LAST_COMMIT_MESSAGE" value="### 更新了[1.0.5]版本！&#10;-优化&#10;--更新1.0.5版本！&#10;--为优化观看体验，做出下列调整优化：&#10;--优化LOGO图标。&#10;--测试轮换频道，调试软件稳定性。&#10;--网络线路仅用于调试软件用，使用者请在24小时内删除。&#10;--若您有疑问或建议，欢迎随时联系我们。感谢支持！&#10;--壹来电视仅为空壳软件不提供任何直播源，更多精彩内容请添加自定义直播源。" />
+    <MESSAGE value="### 更新了[1.0.6]版本！&#10;-优化&#10;--更新1.0.6版本！&#10;--为优化观看体验，做出下列调整优化：&#10;--测试了一些功能。&#10;--测试轮换频道，调试软件稳定性。&#10;--网络线路仅用于调试软件用，使用者请在24小时内删除。&#10;--若您有疑问或建议，欢迎随时联系我们。感谢支持！&#10;--壹来电视仅为空壳软件不提供任何直播源，更多精彩内容请添加自定义直播源。" />
+    <option name="LAST_COMMIT_MESSAGE" value="### 更新了[1.0.6]版本！&#10;-优化&#10;--更新1.0.6版本！&#10;--为优化观看体验，做出下列调整优化：&#10;--测试了一些功能。&#10;--测试轮换频道，调试软件稳定性。&#10;--网络线路仅用于调试软件用，使用者请在24小时内删除。&#10;--若您有疑问或建议，欢迎随时联系我们。感谢支持！&#10;--壹来电视仅为空壳软件不提供任何直播源，更多精彩内容请添加自定义直播源。" />
   </component>
   <component name="play_dynamic_filters_status">
     <option name="appIdToCheckInfo">

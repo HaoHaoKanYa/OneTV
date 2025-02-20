@@ -31,3 +31,11 @@ keystore.jks
 /core.designsystem/build/
 /core.util/build/
 /build/
+/tv/build
+/mobile/build
+/core/data/build
+/core/designsystem
+/core/util/build
+/.kotlin
+/.gradle
+/.github/ISSUE_TEMPLATE
