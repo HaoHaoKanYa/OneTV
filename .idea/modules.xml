@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/壹来电视.iml" filepath="$PROJECT_DIR$/.idea/modules/壹来电视.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/壹来电视.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/壹来电视.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/data/壹来电视.core.data.iml" filepath="$PROJECT_DIR$/.idea/modules/core/data/壹来电视.core.data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/data/壹来电视.core.data.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core/data/壹来电视.core.data.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/data/壹来电视.core.data.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/data/壹来电视.core.data.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/data/壹来电视.core.data.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core/data/壹来电视.core.data.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/designsystem/壹来电视.core.designsystem.iml" filepath="$PROJECT_DIR$/.idea/modules/core/designsystem/壹来电视.core.designsystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/designsystem/壹来电视.core.designsystem.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core/designsystem/壹来电视.core.designsystem.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/designsystem/壹来电视.core.designsystem.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/designsystem/壹来电视.core.designsystem.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/designsystem/壹来电视.core.designsystem.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core/designsystem/壹来电视.core.designsystem.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/util/壹来电视.core.util.iml" filepath="$PROJECT_DIR$/.idea/modules/core/util/壹来电视.core.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/util/壹来电视.core.util.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core/util/壹来电视.core.util.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/util/壹来电视.core.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/util/壹来电视.core.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/util/壹来电视.core.util.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core/util/壹来电视.core.util.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mobile/壹来电视.mobile.iml" filepath="$PROJECT_DIR$/.idea/modules/mobile/壹来电视.mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mobile/壹来电视.mobile.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mobile/壹来电视.mobile.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mobile/壹来电视.mobile.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mobile/壹来电视.mobile.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mobile/壹来电视.mobile.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mobile/壹来电视.mobile.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tv/壹来电视.tv.iml" filepath="$PROJECT_DIR$/.idea/modules/tv/壹来电视.tv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tv/壹来电视.tv.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/tv/壹来电视.tv.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tv/壹来电视.tv.main.iml" filepath="$PROJECT_DIR$/.idea/modules/tv/壹来电视.tv.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tv/壹来电视.tv.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/tv/壹来电视.tv.unitTest.iml" />
+    </modules>
+  </component>
+</project>

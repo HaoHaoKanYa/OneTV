@@ -29,7 +29,6 @@ class UpdateViewModel : ViewModel() {
     private var _latestRelease by mutableStateOf(GitRelease())
     val latestRelease get() = _latestRelease
 
-
     var visible by mutableStateOf(false)
 
     suspend fun checkUpdate(currentVersion: String, channel: String) {

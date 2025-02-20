@@ -38,75 +38,46 @@ fun UpdateScreen(
     val context = LocalContext.current
     val coroutineScope = rememberCoroutineScope()
     val packageInfo = rememberPackageInfo()
-    val latestFile = remember { File(Globals.cacheDir, "latest.apk") }
 
+    // 启动时进行更新检查
     LaunchedEffect(Unit) {
         delay(3000)
         updateViewModel.checkUpdate(packageInfo.versionName, settingsViewModel.updateChannel)
-
-        val latestRelease = updateViewModel.latestRelease
-        if (
-            updateViewModel.isUpdateAvailable &&
-            latestRelease.version != settingsViewModel.appLastLatestVersion
-        ) {
-            settingsViewModel.appLastLatestVersion = latestRelease.version
-
-            if (settingsViewModel.updateForceRemind) {
-                updateViewModel.visible = true
-            } else {
-                Snackbar.show("发现新版本: v${latestRelease.version}")
-            }
-        }
     }
 
-    val launcher =
-        rememberLauncherForActivityResult(ActivityResultContracts.StartActivityForResult()) {
-            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
-                if (context.packageManager.canRequestPackageInstalls()) {
-                    ApkInstaller.installApk(context, latestFile.path)
-                } else {
-                    Snackbar.show("未授予安装权限", type = SnackbarType.ERROR)
-                }
-            }
-        }
+    val latestRelease = updateViewModel.latestRelease
+    val isUpdateAvailable = updateViewModel.isUpdateAvailable
 
-    LaunchedEffect(updateViewModel.updateDownloaded) {
-        if (!updateViewModel.updateDownloaded) return@LaunchedEffect
+    // 如果有更新，显示更新提示
+    if (isUpdateAvailable) {
+        updateViewModel.visible = true
+    }
 
-        if (Build.VERSION.SDK_INT < Build.VERSION_CODES.O) {
-            ApkInstaller.installApk(context, latestFile.path)
-        } else {
+    // 处理 APK 安装逻辑
+    val launcher = rememberLauncherForActivityResult(ActivityResultContracts.StartActivityForResult()) {
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
             if (context.packageManager.canRequestPackageInstalls()) {
-                ApkInstaller.installApk(context, latestFile.path)
+                ApkInstaller.installApk(context, File(Globals.cacheDir, "latest.apk").path)
             } else {
-                try {
-                    val intent = Intent(Settings.ACTION_MANAGE_UNKNOWN_APP_SOURCES)
-                    launcher.launch(intent)
-                } catch (_: Exception) {
-                    Snackbar.show(
-                        "无法找到相应的设置项，请手动启用未知来源安装权限。",
-                        type = SnackbarType.ERROR,
-                    )
-                }
+                Snackbar.show("未授予安装权限", type = SnackbarType.ERROR)
             }
         }
     }
 
+    // 处理更新对话框的显示和操作
     PopupContent(
         visibleProvider = { updateViewModel.visible },
         onDismissRequest = { updateViewModel.visible = false },
     ) {
         UpdateContent(
-            modifier = modifier
-                .captureBackKey { updateViewModel.visible = false }
-                .pointerInput(Unit) { detectTapGestures { } },
+            modifier = modifier,
             onDismissRequest = { updateViewModel.visible = false },
             releaseProvider = { updateViewModel.latestRelease },
             isUpdateAvailableProvider = { updateViewModel.isUpdateAvailable },
             onUpdateAndInstall = {
                 updateViewModel.visible = false
                 coroutineScope.launch(Dispatchers.IO) {
-                    updateViewModel.downloadAndUpdate(latestFile)
+                    updateViewModel.downloadAndUpdate(File(Globals.cacheDir, "latest.apk"))
                 }
             },
         )

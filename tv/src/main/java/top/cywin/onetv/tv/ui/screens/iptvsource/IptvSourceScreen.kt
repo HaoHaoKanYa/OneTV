@@ -1,6 +1,7 @@
 package top.cywin.onetv.tv.ui.screens.iptvsource
 
 import android.graphics.Color.rgb
+import android.graphics.fonts.FontFamily
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.PaddingValues
@@ -44,7 +45,9 @@ import androidx.compose.foundation.background
 import androidx.compose.foundation.shape.RoundedCornerShape
 import android.view.View
 import androidx.compose.foundation.layout.padding
+import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
 
 
 @Composable
@@ -70,7 +73,10 @@ fun IptvSourceScreen(
     Drawer(
         position = DrawerPosition.Bottom,
         onDismissRequest = onClose,
-        header = { Text("自定义直播源") },
+        header = { Text("自定义直播源",color = Color(rgb(255, 255, 255)),
+            fontSize = 22.sp,
+            fontWeight = FontWeight.Bold)// 设置加粗)
+                  },
     ) {
         // 记住列表的滚动状态
         val listState = rememberLazyListState(max(0, currentIptvSourceIdx - 2))
@@ -96,10 +102,12 @@ fun IptvSourceScreen(
                         headlineContent = {
                             Column {
                                 // 显示默认源的名称
-                                Text("移动测试：${source.name}",color = Color(rgb(255, 255, 255)))
+                                Text("移动测试：${source.name}",color = Color(rgb(135, 206, 250)),
+                                    fontSize = 20.sp,
+                                    fontWeight = FontWeight.Bold)// 设置加粗
                                 // 显示提示文本
                                 Text("声明：壹来电视仅为空壳软件不提供任何直播源，本条线路仅为调试软件用途，" +
-                                        "使用者请在24小时内删除！更多精彩内容请添加自定义直播源。",color = Color(rgb(255, 0, 0)))
+                                        "使用者请在24小时内删除！更多精彩内容请添加自定义直播源。",color = Color(rgb(255, 69, 0)))
                             }
                         },
                         trailingContent = {
@@ -123,10 +131,12 @@ fun IptvSourceScreen(
                         headlineContent = {
                             Column {
                                 // 显示第二条默认源的名称
-                                Text("电信测试：關注公众号【壹来了】", color = Color(rgb(255, 255, 255)))
+                                Text("电信测试：關注公众号【壹来了】", color = Color(rgb(135, 206, 250)),
+                                    fontSize = 20.sp,
+                                    fontWeight = FontWeight.Bold)// 设置加粗)
                                 // 显示声明文本
                                 Text("声明：壹来电视仅为空壳软件不提供任何直播源，本条线路仅为调试软件用途，" +
-                                        "使用者请在24小时内删除！更多精彩内容请添加自定义直播源。",color = Color(rgb(255, 0, 0)))
+                                        "使用者请在24小时内删除！更多精彩内容请添加自定义直播源。",color = Color(rgb(255, 69, 0)))
                             }
                         },
                         trailingContent = {
