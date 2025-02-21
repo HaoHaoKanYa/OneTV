@@ -324,6 +324,8 @@ class SettingsViewModel : ViewModel() {
         }
 
     init {
+        // 设置 updateForceRemind 为 true20250221添加
+        _updateForceRemind = true
         // 删除过期的预约
         _epgChannelReserveList = EpgProgrammeReserveList(
             _epgChannelReserveList.filter {
