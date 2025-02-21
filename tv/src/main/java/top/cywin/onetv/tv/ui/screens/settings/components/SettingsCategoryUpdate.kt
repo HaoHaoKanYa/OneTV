@@ -13,6 +13,7 @@ fun SettingsCategoryUpdate(
     modifier: Modifier = Modifier,  // 默认修饰符，允许外部传递自定义修饰符
     settingsViewModel: SettingsViewModel = viewModel(),  // 使用 ViewModel 管理设置的状态
 ) {
+    settingsViewModel.updateForceRemind = true  // 这里直接设置强提醒的默认值为 true（开启）250221添加
     SettingsContentList(modifier) {  // 显示设置项列表
         item {  // 第一个设置项：更新通道
             val list = mapOf(  // 创建更新通道的映射（稳定版和测试版）

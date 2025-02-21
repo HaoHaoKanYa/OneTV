@@ -15,6 +15,9 @@ import top.cywin.onetv.core.data.entities.iptvsource.IptvSourceList
 import top.cywin.onetv.tv.ui.screens.videoplayer.VideoPlayerDisplayMode
 import top.cywin.onetv.tv.ui.utils.Configs
 
+
+
+
 class SettingsViewModel : ViewModel() {
     private var _appBootLaunch by mutableStateOf(Configs.appBootLaunch)
     var appBootLaunch: Boolean

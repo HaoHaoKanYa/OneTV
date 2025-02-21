@@ -5,10 +5,6 @@
     <content url="file://$MODULE_DIR$/../..">
       <excludeFolder url="file://$MODULE_DIR$/../../.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../build" />
-      <excludeFolder url="file://$MODULE_DIR$/../../.github/ISSUE_TEMPLATE" />
-      <excludeFolder url="file://$MODULE_DIR$/../caches" />
-      <excludeFolder url="file://$MODULE_DIR$/../libraries" />
-      <excludeFolder url="file://$MODULE_DIR$/../../.kotlin" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
