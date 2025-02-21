@@ -12,8 +12,8 @@
       "filters": [],
       "attributes": [],
       "versionCode": 1,
-      "versionName": "1.0.8",
-      "outputFile": "onetv-android-tv-1.0.8-all-sdk21.apk"
+      "versionName": "1.0.9",
+      "outputFile": "onetv-android-tv-1.0.9-all-sdk21.apk"
     }
   ],
   "elementType": "File",
@@ -22,14 +22,14 @@
       "minApi": 28,
       "maxApi": 30,
       "baselineProfiles": [
-        "baselineProfiles/1/onetv-android-tv-1.0.8-all-sdk21.dm"
+        "baselineProfiles/1/onetv-android-tv-1.0.9-all-sdk21.dm"
       ]
     },
     {
       "minApi": 31,
       "maxApi": 2147483647,
       "baselineProfiles": [
-        "baselineProfiles/0/onetv-android-tv-1.0.8-all-sdk21.dm"
+        "baselineProfiles/0/onetv-android-tv-1.0.9-all-sdk21.dm"
       ]
     }
   ],

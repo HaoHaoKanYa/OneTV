@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tv/OneTV.壹来电视.tv.iml" filepath="$PROJECT_DIR$/.idea/modules/tv/OneTV.壹来电视.tv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tv/OneTV.壹来电视.tv.main~1.iml" filepath="$PROJECT_DIR$/.idea/modules/tv/OneTV.壹来电视.tv.main~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tv/OneTV.壹来电视.tv.unitTest~1.iml" filepath="$PROJECT_DIR$/.idea/modules/tv/OneTV.壹来电视.tv.unitTest~1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/壹来电视.iml" filepath="$PROJECT_DIR$/.idea/modules/壹来电视.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/壹来电视.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/壹来电视.core.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/data/壹来电视.core.data.iml" filepath="$PROJECT_DIR$/.idea/modules/core/data/壹来电视.core.data.iml" />
@@ -22,8 +25,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mobile/壹来电视.mobile.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mobile/壹来电视.mobile.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/tv/壹来电视.tv.iml" filepath="$PROJECT_DIR$/.idea/modules/tv/壹来电视.tv.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/tv/壹来电视.tv.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/tv/壹来电视.tv.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tv/壹来电视.tv.main.iml" filepath="$PROJECT_DIR$/.idea/modules/tv/壹来电视.tv.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tv/壹来电视.tv.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/tv/壹来电视.tv.unitTest.iml" />
     </modules>
   </component>
 </project>
