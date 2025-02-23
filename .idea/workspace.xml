@@ -17,6 +17,9 @@
       <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/data/build/intermediates/aapt_friendly_merged_manifests/release/processReleaseManifest/aapt/output-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/core/data/build/intermediates/aapt_friendly_merged_manifests/release/processReleaseManifest/aapt/output-metadata.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/data/build/intermediates/aar_main_jar/release/syncReleaseLibJars/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/core/data/build/intermediates/aar_main_jar/release/syncReleaseLibJars/classes.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/data/build/intermediates/compile_library_classes_jar/debug/bundleLibCompileToJarDebug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/core/data/build/intermediates/compile_library_classes_jar/debug/bundleLibCompileToJarDebug/classes.jar" afterDir="false" />
@@ -316,8 +319,9 @@
       <change beforePath="$PROJECT_DIR$/core/util/build/kotlin/compileReleaseKotlin/local-state/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/core/util/build/kotlin/compileReleaseKotlin/local-state/build-history.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/util/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/core/util/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/util/build/outputs/logs/manifest-merger-release-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/core/util/build/outputs/logs/manifest-merger-release-report.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tv/release/onetv-android-tv-1.0.9-all-sdk21.apk" beforeDir="false" afterPath="$PROJECT_DIR$/tv/release/onetv-android-tv-1.0.9-all-sdk21.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tv/src/main/java/top/cywin/onetv/tv/ui/screens/settings/SettingsViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/tv/src/main/java/top/cywin/onetv/tv/ui/screens/settings/SettingsViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv-stable.json" beforeDir="false" afterPath="$PROJECT_DIR$/tv-stable.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tv/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/tv/build.gradle.kts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -333,7 +337,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=C:\Users\Cc\.android\avd\Medium_Phone.avd)]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=Default, isTemplate=false, identifier=serial=emulator-5554;connection=b1350ea6)]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -383,33 +387,33 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Android App.OneTV.壹来电视.tv.executor&quot;: &quot;Run&quot;,
-    &quot;Android App.mobile.executor&quot;: &quot;Run&quot;,
-    &quot;Android App.tv.executor&quot;: &quot;Run&quot;,
-    &quot;ApkExportedModule&quot;: &quot;OneTV.壹来电视.tv&quot;,
-    &quot;ExportApk.ApkPathFor壹来电视.mobile&quot;: &quot;D:\\apk\\OneTV\\mobile&quot;,
-    &quot;ExportApk.ApkPathFor壹来电视.tv&quot;: &quot;D:\\apk\\OneTV\\tv&quot;,
-    &quot;ResourceManagerPrefKey.ResourceType&quot;: &quot;LAYOUT&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/apk/Gradle&quot;,
-    &quot;recommended.upgrade.last.time.stamp&quot;: &quot;1740038142257&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Android App.OneTV.壹来电视.tv.executor": "Run",
+    "Android App.mobile.executor": "Run",
+    "Android App.tv.executor": "Run",
+    "ApkExportedModule": "OneTV.壹来电视.tv",
+    "ExportApk.ApkPathFor壹来电视.mobile": "D:\\apk\\OneTV\\mobile",
+    "ExportApk.ApkPathFor壹来电视.tv": "D:\\apk\\OneTV\\tv",
+    "ResourceManagerPrefKey.ResourceType": "LAYOUT",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "com.google.services.firebase.aqiPopupShown": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/apk/Gradle",
+    "recommended.upgrade.last.time.stamp": "1740316031210",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ExportApk.BuildVariants&quot;: [
-      &quot;release&quot;
+  "keyToStringList": {
+    "ExportApk.BuildVariants": [
+      "release"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Android App.OneTV.壹来电视.tv">
     <configuration name="OneTV.壹来电视.tv" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="OneTV.壹来电视.tv" />
@@ -861,7 +865,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740106036154</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="# 更新日志&#10;### 更新了[1.0.9]版本！&#10;-优化&#10;--更新1.0.9版本！&#10;--为优化体验，做出一些调整。">
+      <option name="closed" value="true" />
+      <created>1740109503524</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1740109503524</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
